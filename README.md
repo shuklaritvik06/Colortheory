@@ -17,14 +17,24 @@ Color Harmonies
 
 Cold colours are: green, blue, indigo and violet. Warm colours are: red, orange and yellow.
 
+Tint => Color+white (towards lightness)
+Shades => Color+black (towards darkness)
+Primary Colors => Red,yellow and Blue
+Hue => Purity of Colors
+Saturation => Intensity
+Tone => Color+Gray
+
 
 MOODS
 
-**RED** => Love, Energy and Intensity
-**YELLOW** => Joy, attention
+**RED** => Love, Energy and Intensity, Anger, Appetite
+**YELLOW** => Joy, attention, Happiness, Creativity
 **GREEN** => Nature, safety, freshness
 **BLUE** => Stability, trust
 **PURPLE** => Royal, wealth
+**BLACK** => Sadness, elegant, Power
+**SKY** => Wisdom, Calm
+**WHITE** => Purity, healing, peace
 
 
 Resources
